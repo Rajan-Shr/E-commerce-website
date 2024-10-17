@@ -19,7 +19,7 @@ A comprehensive e-commerce website built with Django that allows users to browse
 ## Technologies Used
 
 - **Django**: The main web framework for building the application.
-- **SQLite**: Default database for development (can be replaced with PostgreSQL or MySQL in production).
+- **SQLite**: Default database for development.
 - **HTML/CSS/JavaScript**: Front-end technologies used for UI development.
 
 ## Installation
