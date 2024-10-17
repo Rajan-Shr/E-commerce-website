@@ -33,5 +33,5 @@ A comprehensive e-commerce website built with Django that allows users to browse
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-website.git
-   cd ecommerce-website
+   https://github.com/Rajan-Shr/E-commerce-website
+   cd Ecommerce-website
